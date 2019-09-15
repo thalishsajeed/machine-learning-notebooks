@@ -1,2 +1,2 @@
 # machine-learning-notebooks
-Repository for machine learning code
+Repository for machine learning notebooks
